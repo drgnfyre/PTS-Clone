@@ -9,8 +9,8 @@
 *.html
 *.backup~
 *.partial~
-*.srt
-*.idx
+#*.srt
+#*.idx
 *.rar
 *.r[a0-9][r0-9]
 *.lsn
