@@ -56,7 +56,6 @@ startscript() {
     '*.sfv'
     '*.pdf'
     '*.xml'
-    #'*.avi'
     '*.exe'
     '*.lsn'
     '*.nzb'
@@ -68,8 +67,6 @@ startscript() {
     '*.nfo'
     '*.jpeg'
     '*.jpg'
-    #'*.srt'
-    #'*.idx'
     '*.rar'
     '*sample*'
     )
